@@ -19,6 +19,12 @@ Thumbs.db
 .idea/
 .vscode/
 
+# Local documents and Office temp files
+*.doc
+*.docx
+*.pdf
+~$*
+
 # Temporary video frames
 docs/video-raw/
 
